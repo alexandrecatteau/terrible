@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SQLClient</name>
+    </assembly>
+    <members>
+        <member name="T:Alex.Bdd.SQLClient">
+            <summary>
+            Gestion BDD SQL
+            </summary>
+        </member>
+        <member name="M:Alex.Bdd.SQLClient.OpenConnection(System.String)">
+            <summary>
+            Connection a la BDD
+            </summary>
+            <param name="connectionString">String de connection a la BDD</param>
+        </member>
+        <member name="M:Alex.Bdd.SQLClient.CloseConnection(System.Data.SqlClient.SqlConnection)">
+            <summary>
+            Fermeture de la BDD
+            </summary>
+            <param name="sqlConnection">SQLConnection a fermer</param>
+        </member>
+        <member name="M:Alex.Bdd.SQLClient.GetDataTable(System.String,System.String)">
+            <summary>
+            Retourne un DataTable
+            </summary>
+            <param name="connectionString">Chaine de connection</param>
+            <param name="sqlQuery">Requete</param>
+            <returns></returns>
+        </member>
+        <member name="M:Alex.Bdd.SQLClient.GetUniqueDataRow(System.String,System.String)">
+            <summary>
+            Recuperation d'une DataRow depuis une BDD
+            </summary>
+            <param name="connectionString">Chaine de connection</param>
+            <param name="sqlQuery">Requete</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

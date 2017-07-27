@@ -1,0 +1,14 @@
+K:\Projet AFPA\CultureDetente\CultureDetente\obj\Release\CultureDetente.csprojResolveAssemblyReference.cache
+K:\Projet AFPA\CultureDetente\CultureDetente\obj\Release\CultureDetente.FormMain.resources
+K:\Projet AFPA\CultureDetente\CultureDetente\obj\Release\CultureDetente.Properties.Resources.resources
+K:\Projet AFPA\CultureDetente\CultureDetente\obj\Release\CultureDetente.csproj.GenerateResource.Cache
+K:\Projet AFPA\CultureDetente\CultureDetente\bin\Release\CultureDetente.exe.config
+K:\Projet AFPA\CultureDetente\CultureDetente\bin\Release\CultureDetente.exe
+K:\Projet AFPA\CultureDetente\CultureDetente\bin\Release\CultureDetente.pdb
+K:\Projet AFPA\CultureDetente\CultureDetente\bin\Release\Alex.dll
+K:\Projet AFPA\CultureDetente\CultureDetente\bin\Release\SQLClient.dll
+K:\Projet AFPA\CultureDetente\CultureDetente\bin\Release\Alex.pdb
+K:\Projet AFPA\CultureDetente\CultureDetente\bin\Release\SQLClient.pdb
+K:\Projet AFPA\CultureDetente\CultureDetente\bin\Release\SQLClient.xml
+K:\Projet AFPA\CultureDetente\CultureDetente\obj\Release\CultureDetente.exe
+K:\Projet AFPA\CultureDetente\CultureDetente\obj\Release\CultureDetente.pdb
